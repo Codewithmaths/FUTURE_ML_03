@@ -31,13 +31,13 @@ Each line must have **user input and bot response separated by a tab (`\t`)**.
 ---
 
 ## 🚀 Getting Started
-
+```
 1. Clone the repository
 
-```
+
 bash
 git clone https://github.com/your-username/dialogflow-agent-generator.git
-```
+
 cd dialogflow-agent-generator
 2. Install dependencies
 bash
@@ -68,7 +68,7 @@ Click ⚙️ Agent Settings → Export and Import
 Choose Import from ZIP
 
 Upload the generated MyGroupedAgent.zip
-
+```
 🛠 Configuration
 You can modify these constants at the top of generate_dialogflow_agent.py:
 
