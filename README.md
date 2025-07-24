@@ -99,3 +99,10 @@ Let me know if you'd like:
 - A web UI version using Streamlit
 
 I'm happy to generate those too!
+
+
+
+
+for live tesing :
+used : @Customer420_bot
+telegram bot : CustomerSupportBot
