@@ -32,11 +32,12 @@ Each line must have **user input and bot response separated by a tab (`\t`)**.
 
 ## 🚀 Getting Started
 
-### 1. Clone the repository
+1. Clone the repository
 
 ```
 bash
 git clone https://github.com/your-username/dialogflow-agent-generator.git
+```
 cd dialogflow-agent-generator
 2. Install dependencies
 bash
